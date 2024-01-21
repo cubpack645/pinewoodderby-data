@@ -4,6 +4,20 @@
 102,Ezra,Toda,Number 3,Lion
 103,Jordan,Knolle,Blue Rocket,Lion
 104,Emil,Toth,Lightning McQueen,Lion
+105,Lousie,Dickinson,Blue Steel,Lion
+106,Zadie,Dickinson,Fireball,Lion
+107,Griff,Jacobs,RedFlame,Lion
+108,Reed,Wedler,WildCar,Lion
+109,Jack,Watters,Lighting,Lion
+110,Asher,Hazegh,GlitterGod,Lion
+111,Otis,Roth,N/A,Lion
+112,Asher,Anderson,Lightening,Lion
+113,Veronisa,Przbylski,Bonkers,Lion
+114,Andrew ,O'Brien,DYNO,Lion
+115,Shea,Didyk,Cybertruck,Lion
+116,Elazar,Gomes,Macho Military,Lion
+117,Kyle,Grauf,Yosemite Sam,Lion
+118,Wyeth,Lazarus,Thunder,Lion
 200,Ben ,Lupardus,STRIKE,Tiger
 201,Sam,Griggs,Blaze,Tiger
 202,Hudson,Cunningham,SF Car,Tiger
@@ -15,6 +29,11 @@
 208,Liam,Donovan,US Navy,Tiger
 209,Zyan,Moravaji,Kirby Crusher,Tiger
 210,Eliot,Toth,Cheeta Speed,Tiger
+211,Rohan,Patel,Goldenfire,Tiger
+212,August,Stevens,Phantom,Tiger
+213,William,Ryan,TANK,Tiger
+214,Tommy,Gronski,TIGER,Tiger
+215,Declan,Yocke,Striker,Tiger
 300,Liam,Starnitsky,Thin Mint,Wolf
 301,Blake,Daniels,Speedy Cheese,Wolf
 302,Heath,Schroeder,Silver Speedster,Wolf
@@ -22,6 +41,16 @@
 304,Jack,Slattery,Jack's Racer,Wolf
 305,Joey,Rafal,Eevee,Wolf
 306,Nathan,Florczak,Wedge Hammer,Wolf
+307,Max,Gillen,BlackGold,Wolf
+308,Conrad,Bono,TIGER,Wolf
+309,Owen,Gardiner,Red Lightening,Wolf
+310,Luke ,Holder,Glower,Wolf
+311,Cole,Baughman,Zeus,Wolf
+312,Jaxon,Driscoll,melt,Wolf
+313,Bennett,Ashley,Stinger,Wolf
+314,Jake,Morrill,USA,Wolf
+315,Tate,Semain,Stallion,Wolf
+316,Carson,Jager,USS Sneakbomb,Wolf
 400,Harlem,Sato,Cybertruck,Bear
 401,Micah,Blum,The Dominator,Bear
 402,Nathan,Anderson,Thunderchew,Bear
@@ -30,10 +59,53 @@
 405,Marcus,Ewing,Kyogre,Bear
 406,Grant,Lederman,The Dark Curse,Bear
 407,Jonathan,Knolle,Black Widow,Bear
-500,Adam,Catena,Spots,Webelo I
-600,Luke,Sousa,No Effort,Webelo II
-601,Cian,Feeley,Lenny,Webelo II
-602,Aaron,Moss,Red Ball,Webelo II
-603,Parker,Rodriguez,Hot Rod,Webelo II
+408,Noah ,Milson,Doodle,Bear
+409,Gavin,Siamas,RoadHog,Bear
+410,Lucas,Nguyen,DragonFly,Bear
+411,Arim,Macmillan,Fasterthanyou,Bear
+412,Armaan,Sekhom,Blaze,Bear
+413,Tristan,Scott,Ender-Bruh,Bear
+414,Everett,LeVeque,A Wasp,Bear
+415,Tommy,Przybylski,The Neon,Bear
+416,Everett ,Cuthbertson,Blue Lightning,Bear
+417,Lincoln,Patton,NUTS,Bear
+418,Gus,Kellam,Cuttingthecheese,Bear
+419,Dylan,Yocke,The Firebolt,Bear
+420,Hudson,Murphy,R2derbyDroid,Bear
+421,Michael,Petersen,The Shark,Bear
+422,Luke,Crowley,PurpleORBlue?,Bear
+423,George,Vojta,Lightin Bolt,Bear
+500,Adam,Catena,Spots,Webelo 1
+501,Brendan,Bono,BSB,Webelo 1
+502,Willem,Laporte,The Void,Webelo 1
+503,Fredrick,Seymour,Fast Freddie,Webelo 1
+504,Connor,Ryan,Lasy Red,Webelo 1
+505,Oliver,Ashley,The Wasp,Webelo 1
+506,Scott,Carmin,The Bolt,Webelo 1
+507,Walter,Frey,Leader Speeder,Webelo 1
+508,Hudson,Albini,The Hudson,Webelo 1
+509,Brooks,Jager,Slim Jim,Webelo 1
+600,Luke,Sousa,No Effort,Webelo 2
+601,Cian,Feeley,Lenny,Webelo 2
+602,Aaron,Moss,Red Ball,Webelo 2
+603,Parker,Rodriguez,Hot Rod,Webelo 2
+604,Luke,Van Veen,Blue & Gold Magic,Webelo 2
+605,Arthur,Milsom,LovetoMom,Webelo 2
+606,Chase ,Johnson,Green Goblin,Webelo 2
+607,Kiran,Shu,Pencil,Webelo 2
+608,James,Evans,Redhot Chilli Pepper,Webelo 2
+609,Richie,Gardiner,Cool Tom,Webelo 2
+610,Mateo,Held,LazyLog,Webelo 2
+611,Bodhi,Feldman,Lucky Stripe,Webelo 2
+612,Jack,Crowley,Mr. Mumu's van,Webelo 2
+613,Jackson,Hollins,The HOG,Webelo 2
 700,Liv,Starnitsky,The Flying Ace,Siblings
 701,Vivi,Daniels,The Purple Enchilada,Siblings
+702,Cole,Gillen,Red Rockeet,Siblings
+703,Rosalyn,Seymour,Petals,Siblings
+704,Maddie,Laporte,The Gallaxy,Siblings
+705,Jonas,Thompson,Mellon Mayham,Siblings
+706,Mike,Przbylski,Camping,Siblings
+707,Miles,Ashley,Blue Platty,Siblings
+708,Brady,Morrill,The Arrom,Siblings
+709,Laila,Feldman,Flower Power,Siblings
